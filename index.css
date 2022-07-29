@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 10px;
+    /* padding: 10px; */
+
+}
+
+input{
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: medium;
+    border: 1px solid #8860c4;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #8860c4;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+}
+
+ul{
+    list-style: none;
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+li{
+    margin-top: 5px;
+}
+
+li a{
+    color: #8860c4;
+}
