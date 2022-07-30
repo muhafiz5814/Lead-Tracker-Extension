@@ -6,6 +6,8 @@
 body{
     margin: 10px;
     /* padding: 10px; */
+    min-width: 400px;
+    min-height: 400px;
 
 }
 
@@ -24,7 +26,13 @@ button{
     color: white;
     font-weight: bold;
     font-size: 15px;
-    border: none;
+    border: 1px solid #8860c4;
+}
+
+#delete-btn{
+    background-color: white;
+    color: #fc2f2f;
+    border: 1px solid #fc2f2f;
 }
 
 ul{
